@@ -13,3 +13,5 @@ An Ansible program to create a new user in the system
 ### you may follow the steps from this asciinema as well : https://asciinema.org/a/ZcCadFDTZzawrRhegd9mstiqM
 
 ## Here is a screenshot of the new user (logged in):
+
+![new user](link-to-image)
