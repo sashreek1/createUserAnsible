@@ -1,0 +1,7 @@
+---
+- name: Creating a user named "{{username}}" on the specified web server.
+  user: 
+    name: "{{username}}"
+    password: "{{password}}"
+    state: present
+

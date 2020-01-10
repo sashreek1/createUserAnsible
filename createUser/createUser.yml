@@ -1,0 +1,14 @@
+---
+- hosts: localhost
+  vars_prompt:
+    - name: username1
+      prompt: "What is your username?"
+      private: no
+
+    - name: password1
+      prompt: "What is your password?"
+      private: no
+  roles:
+    - role: create_user
+      username: '{{username1}}'
+      password: '{{password1}}'
