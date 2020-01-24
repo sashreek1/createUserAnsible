@@ -14,4 +14,4 @@ An Ansible program to create a new user in the system
 
 ## Here is a screenshot of the new user (logged in):
 
-![new user](https://raw.githubusercontent.com/sashreek1/createUserAnsible/master/screenshot.png)
+![new user](screenshot.png)
